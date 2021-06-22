@@ -11,4 +11,7 @@ html {
     max-width: 1000px;
     margin: 0 auto;
     padding: 15px;
+    background-image: url(https://wallpapercave.com/wp/wp8375015.jpg);
+    background-size: cover;
+    background-position: center;
 }
